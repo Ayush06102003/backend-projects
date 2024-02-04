@@ -1,0 +1,9 @@
+.item {
+    display: flex;  /* Use flexbox to display elements side by side */
+    align-items: center;  /* Vertically center elements */
+    margin-bottom: 10px;  /* Optional: Add margin for spacing between items */
+}
+
+body{
+    background-color: blueviolet;
+}
